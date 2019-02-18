@@ -1,0 +1,1 @@
+"use strict";var boxx=document.querySelector(".boxx"),box=document.querySelector(".box");
